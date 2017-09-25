@@ -1,0 +1,3283 @@
+< ZAHP;
+
+LOADING PROGRAM VERSION 6.7-0
+
+SGSN      SNZ03                     2014-12-02  05:47:38
+
+ALARM HISTORY
+
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:00:03.24
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2412) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B4 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:00:07.34
+*   DISTUR ........                          MTA_IX
+    (9853) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:00:25.51
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2413) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 EC36
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:00:53.38
+*   DISTUR ........                          MTA_IX
+    (9854) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 65 98 54 81 89 25 73 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:01:15.32
+*   DISTUR ........                          MTA_IX
+    (9855) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 65 98 54 81 89 25 73 4F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:01:27.47
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2414) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AE 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:01:53.18
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2415) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B3 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:01:58.33
+*   DISTUR ........                          MTA_IX
+    (9856) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:03:48.14
+*   DISTUR ........                          MTA_IX
+    (9857) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 86 13 80 52 93 04 84 3F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:07:35.55
+*   DISTUR ........                          MTA_IX
+    (9858) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:07:37.47
+*   DISTUR ........                          MTA_IX
+    (9859) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:07:52.78
+*   DISTUR ........                          MTA_IX
+    (9860) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:07:55.33
+*   DISTUR ........                          MTA_IX
+    (9861) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 02 43 97 03 8F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:08:45.04
+*   DISTUR ........                          MTA_IX
+    (9862) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:10:00.01
+*   DISTUR MCHU-0      1A001-00-2            SS2PRO
+    (9863) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:10:33.84
+*   DISTUR ........                          MTA_IX
+    (9864) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:11:26.29
+*   DISTUR ........                          MTA_IX
+    (9865) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:12:50.18
+*   DISTUR ........                          MTA_IX
+    (9866) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:13:34.06
+*   DISTUR ........                          MTA_IX
+    (9867) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:13:43.73
+*   DISTUR ........                          MTA_IX
+    (9868) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:14:10.06
+*   DISTUR ........                          MTA_IX
+    (9869) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:15:03.23
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2414) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AE 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:15:03.24
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2416) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:15:26.47
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2415) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B3 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:15:26.47
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2417) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:16:08.25
+*   DISTUR ........                          MTA_IX
+    (9870) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 19 04 79 2F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  00:17:39.46
+*   DISTUR ........                          MTA_IX
+    (9871) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:18:01.07
+*   DISTUR ........                          MTA_IX
+    (9872) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  00:18:17.02
+*   DISTUR ........                          MTA_IX
+    (9873) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:20:26.66
+*   DISTUR ........                          MTA_IX
+    (9874) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  00:23:09.99
+*   DISTUR ........                          MTA_IX
+    (9875) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0D 97 65 96 80 19 36 92 2F FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:23:14.03
+*   DISTUR ........                          MTA_IX
+    (9876) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:23:44.23
+*   DISTUR ........                          MTA_IX
+    (9877) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:24:30.00
+*   DISTUR ........                          MTA_IX
+    (9878) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:24:52.99
+*   DISTUR ........                          MTA_IX
+    (9879) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:27:49.42
+*   DISTUR ........                          MTA_IX
+    (9880) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0D 97 65 97 90 37 61 45 6F FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:28:16.18
+*   DISTUR ........                          MTA_IX
+    (9881) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:30:03.23
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2416) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:30:03.24
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2418) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B1 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:30:17.24
+*   DISTUR ........                          MTA_IX
+    (9882) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 62 81 81 52 58 18 85 0F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:30:24.15
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2417) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:30:24.15
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2419) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B2 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:32:07.24
+*   DISTUR ........                          MTA_IX
+    (9883) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 02 43 97 03 8F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:33:14.48
+*   DISTUR ........                          MTA_IX
+    (9884) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:34:11.36
+*   DISTUR ........                          MTA_IX
+    (9885) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:36:27.81
+*   DISTUR ........                          MTA_IX
+    (9886) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:36:55.62
+*   DISTUR ........                          MTA_IX
+    (9887) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:37:18.06
+*   DISTUR ........                          MTA_IX
+    (9888) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:37:18.67
+*   DISTUR ........                          MTA_IX
+    (9889) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  00:38:07.21
+*   DISTUR ........                          MTA_IX
+    (9890) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:40:00.01
+*   DISTUR MCHU-0      1A001-00-2            SS2PRO
+    (9891) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:45:03.24
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2418) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B1 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  00:45:03.25
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2420) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B8 0000 0000 0000 00 EC36
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:45:24.78
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2419) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B2 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  00:45:24.78
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2421) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BF 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:51:57.19
+*   DISTUR ........                          MTA_IX
+    (9892) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:52:05.49
+*   DISTUR ........                          MTA_IX
+    (9893) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0D 97 65 96 80 19 87 88 7F FF FF
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  00:52:58.75
+*   ALARM  PAPU-11     1A002-00-7            GTP_GX
+    (2422) 3450 GGSN UNAVAILABLE
+    00 DF E0 29 55 FF FF FF FF FF FF FF FF FF FF FF FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  00:53:58.57
+*   DISTUR ........                          MTA_IX
+    (9894) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:54:01.49
+*   DISTUR ........                          MTA_IX
+    (9895) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  00:54:16.46
+*   DISTUR ........                          MTA_IX
+    (9896) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  00:57:04.93
+*   DISTUR ........                          MTA_IX
+    (9897) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  00:59:38.69
+    NOTICE OMU-0       1A001-00-1            SW5ADM
+    (9898) 0027 SOFTWARE PACKAGE FALLBACK COPYING NOTICE
+    STARTED
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  00:59:38.77
+    NOTICE OMU-0       1A001-00-1            FEDSER
+    (9899) 0033 FILE UPDATES TO DISK PREVENTED
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  00:59:39.11
+*   DISTUR ........                          MTA_IX
+    (9900) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:00:03.24
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2420) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B8 0000 0000 0000 00 EC36
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:00:03.25
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2423) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B0 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:00:24.33
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2421) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BF 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:00:24.33
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2424) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B0 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:00:33.49
+*   DISTUR ........                          MTA_IX
+    (9901) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:00:42.41
+*   DISTUR ........                          MTA_IX
+    (9902) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:02:20.75
+*   DISTUR ........                          MTA_IX
+    (9903) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:02:43.81
+*   DISTUR ........                          MTA_IX
+    (9904) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:02:53.39
+*   DISTUR ........                          MTA_IX
+    (9905) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:03:15.73
+*   DISTUR ........                          MTA_IX
+    (9906) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  01:03:34.94
+*   DISTUR ........                          MTA_IX
+    (9907) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  01:04:11.54
+*   DISTUR ........                          MTA_IX
+    (9908) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:04:17.58
+*   DISTUR ........                          MTA_IX
+    (9909) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:04:27.86
+*   DISTUR ........                          MTA_IX
+    (9910) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  01:06:40.14
+    NOTICE OMU-0       1A001-00-1            FEDSER
+    (9911) 0036 FILE UPDATES TO DISK RESUMED
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:07:09.38
+*   DISTUR ........                          MTA_IX
+    (9912) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  01:07:19.33
+    NOTICE OMU-0       1A001-00-1            SW5ADM
+    (9913) 0027 SOFTWARE PACKAGE FALLBACK COPYING NOTICE
+    READY
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:07:31.41
+*   DISTUR ........                          MTA_IX
+    (9914) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:07:49.07
+*   DISTUR ........                          MTA_IX
+    (9915) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:09:08.74
+*   DISTUR ........                          MTA_IX
+    (9916) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:10:09.76
+*   DISTUR ........                          MTA_IX
+    (9917) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 27 82 33 00 81 86 30 FF FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:11:29.77
+*   ALARM  PAPU-8      1A002-00-4            S3CMAN
+    (2425) 3159 SCTP ASSOCIATION LOST
+    03 000E 0000 0000 4208
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:11:36.87
+*   DISTUR ........                          MTA_IX
+    (9918) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:11:37.43
+.   CANCEL PAPU-8      1A002-00-4            S3CMAN
+    (2425) 3159 SCTP ASSOCIATION LOST
+    03 000E 0000 0000 4208
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:12:10.70
+*   DISTUR ........                          MTA_IX
+    (9919) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 02 43 97 03 8F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:12:43.42
+*   DISTUR ........                          MTA_IX
+    (9920) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  01:13:39.90
+*   DISTUR ........                          MTA_IX
+    (9921) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:15:03.23
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2423) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B0 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:15:03.24
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2426) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C3 0000 0000 0000 00 EC36
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:15:23.20
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2424) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B0 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:15:23.20
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2427) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B9 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:16:10.99
+*   DISTUR ........                          MTA_IX
+    (9922) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:17:38.91
+*   DISTUR ........                          MTA_IX
+    (9923) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 02 43 97 03 8F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:19:02.29
+*   DISTUR ........                          MTA_IX
+    (9924) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:20:20.77
+*   DISTUR ........                          MTA_IX
+    (9925) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:20:43.39
+*   DISTUR ........                          MTA_IX
+    (9926) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:20:44.83
+*   DISTUR ........                          MTA_IX
+    (9927) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:21:29.33
+*   DISTUR ........                          MTA_IX
+    (9928) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:22:43.90
+*   DISTUR ........                          MTA_IX
+    (9929) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:23:59.56
+*   DISTUR ........                          MTA_IX
+    (9930) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:24:43.81
+*   DISTUR ........                          MTA_IX
+    (9931) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:26:05.66
+*   DISTUR ........                          MTA_IX
+    (9932) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:29:20.98
+*   DISTUR ........                          MTA_IX
+    (9933) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:30:03.23
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2426) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C3 0000 0000 0000 00 EC36
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:30:03.24
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2428) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C1 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:30:24.17
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2427) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B9 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:30:24.17
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2429) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B4 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  01:31:27.72
+*   DISTUR ........                          MTA_IX
+    (9934) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:32:00.62
+*   DISTUR ........                          MTA_IX
+    (9935) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:33:14.26
+*   DISTUR ........                          MTA_IX
+    (9936) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:33:36.54
+*   DISTUR ........                          MTA_IX
+    (9937) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:35:40.06
+*   DISTUR ........                          MTA_IX
+    (9938) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:36:26.10
+*   DISTUR ........                          MTA_IX
+    (9939) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:37:10.89
+*   DISTUR ........                          MTA_IX
+    (9940) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:38:47.74
+*   DISTUR ........                          MTA_IX
+    (9941) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:39:47.25
+*   DISTUR ........                          MTA_IX
+    (9942) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:42:05.85
+*   DISTUR ........                          MTA_IX
+    (9943) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:42:45.32
+*   DISTUR ........                          MTA_IX
+    (9944) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:43:30.81
+*   DISTUR ........                          MTA_IX
+    (9945) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  01:43:46.56
+*   DISTUR ........                          MTA_IX
+    (9946) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:45:03.24
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2428) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C1 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  01:45:03.25
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2430) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:45:23.17
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2429) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B4 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  01:45:23.18
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2431) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B5 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:46:18.21
+*   DISTUR ........                          MTA_IX
+    (9947) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:48:52.43
+*   DISTUR ........                          MTA_IX
+    (9948) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:49:14.73
+*   DISTUR ........                          MTA_IX
+    (9949) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  01:49:36.04
+*   DISTUR ........                          MTA_IX
+    (9950) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:49:37.11
+*   DISTUR ........                          MTA_IX
+    (9951) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:50:47.92
+*   DISTUR ........                          MTA_IX
+    (9952) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:51:32.61
+*   DISTUR ........                          MTA_IX
+    (9953) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:52:26.37
+*   DISTUR ........                          MTA_IX
+    (9954) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-5      SWITCH    2014-12-02  01:53:06.99
+*   ALARM  PAPU-5      1A002-00-1            GTP_GX
+    (2432) 3450 GGSN UNAVAILABLE
+    00 50 0A 02 22 FF FF FF FF FF FF FF FF FF FF FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:53:10.30
+*   DISTUR ........                          MTA_IX
+    (9955) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  01:54:16.08
+*   ALARM  PAPU-9      1A002-00-5            GTP_GX
+    (2433) 3450 GGSN UNAVAILABLE
+    00 50 0A 03 02 FF FF FF FF FF FF FF FF FF FF FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:54:31.00
+*   DISTUR ........                          MTA_IX
+    (9956) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:54:57.68
+*   DISTUR ........                          MTA_IX
+    (9957) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  01:55:47.49
+*   DISTUR ........                          MTA_IX
+    (9958) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:55:55.55
+*   DISTUR ........                          MTA_IX
+    (9959) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:58:10.71
+*   DISTUR ........                          MTA_IX
+    (9960) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  01:58:54.81
+*   DISTUR ........                          MTA_IX
+    (9961) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:00:03.24
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2430) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:00:03.25
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2434) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C3 0000 0000 0000 00 EC35
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:00:23.33
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2431) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B5 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:00:23.33
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2435) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:00:33.17
+*   DISTUR ........                          MTA_IX
+    (9962) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:02:48.80
+*   DISTUR ........                          MTA_IX
+    (9963) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:03:30.99
+*   DISTUR ........                          MTA_IX
+    (9964) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:03:33.83
+*   DISTUR ........                          MTA_IX
+    (9965) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:05:53.57
+*   ALARM  PAPU-9      1A002-00-5            S3CMAN
+    (2436) 3159 SCTP ASSOCIATION LOST
+    03 000E 0001 0000 4209
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:06:01.25
+.   CANCEL PAPU-9      1A002-00-5            S3CMAN
+    (2436) 3159 SCTP ASSOCIATION LOST
+    03 000E 0001 0000 4209
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  02:07:56.73
+*   DISTUR ........                          MTA_IX
+    (9966) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  PAPU-5      SWITCH    2014-12-02  02:10:13.19
+*   ALARM  PAPU-5      1A002-00-1            GTP_GX
+    (2437) 3450 GGSN UNAVAILABLE
+    00 50 0A 02 84 FF FF FF FF FF FF FF FF FF FF FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:11:01.82
+*   DISTUR ........                          MTA_IX
+    (9967) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:11:09.72
+*   DISTUR ........                          MTA_IX
+    (9968) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:12:15.73
+*   DISTUR ........                          MTA_IX
+    (9969) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  02:13:13.05
+*   DISTUR ........                          MTA_IX
+    (9970) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:14:42.28
+*   DISTUR ........                          MTA_IX
+    (9971) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:15:03.23
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2434) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C3 0000 0000 0000 00 EC35
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:15:03.24
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2438) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C5 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:15:23.03
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2435) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BE 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:15:23.03
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2439) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B8 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:17:59.00
+*   DISTUR ........                          MTA_IX
+    (9972) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:18:21.53
+*   DISTUR ........                          MTA_IX
+    (9973) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  02:20:27.58
+*   DISTUR ........                          MTA_IX
+    (9974) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:21:44.86
+*   DISTUR ........                          MTA_IX
+    (9975) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:22:34.83
+**  ALARM  MCHU-1      1A001-00-15           NDVMAN
+    (2440) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:22:42.26
+**  ALARM  MCHU-1      1A001-00-15           NDVMAN
+    (2441) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  02:23:58.66
+*   DISTUR ........                          MTA_IX
+    (9976) 1647 OPERATION TIMER EXPIRY
+    38 06 00 0F 97 62 81 61 90 04 91 34 8F FF
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  02:25:21.78
+*   DISTUR PAPU-9      1A002-00-5            0A11H
+    (9977) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:26:28.55
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2442) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:26:28.54
+*   ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2443) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:26:28.55
+*** ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2444) 3010 NO OPERATIONAL CHARGING GATEWAY NETWORK ELEMENT
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:26:28.54
+*** ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2445) 3010 NO OPERATIONAL CHARGING GATEWAY NETWORK ELEMENT
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:26:32.03
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2446) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:26:32.02
+*   ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2447) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:26:40.11
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2448) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:26:40.10
+*   ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2449) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:26:55.89
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2450) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:26:55.88
+*   ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2451) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:26:56.28
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2452) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:26:56.27
+*   ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2453) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  02:26:58.28
+*   DISTUR ........                          MTA_IX
+    (9978) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  02:27:00.65
+*   DISTUR PAPU-8      1A002-00-4            0A11H
+    (9979) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:27:02.76
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2454) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:27:02.75
+*   ALARM  MCHU-1      1A001-00-15           GIG_GM
+    (2455) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  02:27:30.86
+*   DISTUR PAPU-8      1A002-00-4            0A10H
+    (9980) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  02:27:53.49
+*   DISTUR PAPU-8      1A002-00-4            0A10H
+    (9981) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:28:16.36
+*   DISTUR ........                          MTA_IX
+    (9982) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  02:28:46.48
+*   DISTUR PAPU-11     1A002-00-7            0A10H
+    (9983) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:28:57.73
+*   DISTUR ........                          MTA_IX
+    (9984) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:29:01.21
+*   DISTUR ........                          MTA_IX
+    (9985) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  02:29:13.76
+*   DISTUR PAPU-8      1A002-00-4            0A10H
+    (9986) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  02:29:48.57
+*   DISTUR ........                          MTA_IX
+    (9987) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  02:29:49.28
+*   ALARM  PAPU-9      1A002-00-5            GTP_GX
+    (2456) 3450 GGSN UNAVAILABLE
+    00 50 0A 02 2A FF FF FF FF FF FF FF FF FF FF FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:29:59.55
+*   DISTUR ........                          MTA_IX
+    (9988) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:30:00.01
+*   DISTUR MCHU-0      1A001-00-2            SS2PRO
+    (9989) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:30:03.23
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2438) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C5 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:30:03.24
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2457) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B2 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:30:10.43
+..  CANCEL MCHU-1      1A001-00-15           NDVMAN
+    (2440) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:30:22.29
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2439) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B8 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:30:22.30
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2458) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:30:46.19
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2459) 3308 CDR SEND BUFFER FULLNESS INFO
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:31:15.39
+..  CANCEL MCHU-1      1A001-00-15           NDVMAN
+    (2441) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:32:14.36
+*   DISTUR ........                          MTA_IX
+    (9990) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:32:34.84
+*   ALARM  PAPU-10     1A002-00-6            S3CMAN
+    (2460) 3159 SCTP ASSOCIATION LOST
+    03 000E 0002 0000 420A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:32:42.55
+.   CANCEL PAPU-10     1A002-00-6            S3CMAN
+    (2460) 3159 SCTP ASSOCIATION LOST
+    03 000E 0002 0000 420A
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  02:34:51.06
+    NOTICE MCHU-0      1A001-00-2            RCXPRO
+    (9991) 0690 WORKING STATE CHANGE
+    WO-EX SP-EX 0000 0321 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  02:34:51.06
+    NOTICE MCHU-1      1A001-00-15           RCXPRO
+    (9992) 0690 WORKING STATE CHANGE
+    SP-EX WO-EX 0000 0321 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:51.08
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2457) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B2 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:51.08
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2461) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B1 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:51.58
+*   ALARM  MCHU-1      1A001-00-15           SL1_GM
+    (2462) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:51.58
+*   ALARM  MCHU-1      1A001-00-15           SL1_GM
+    (2463) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:34:55.69
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2442) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:55.69
+.   CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2443) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:34:55.69
+... CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2444) 3010 NO OPERATIONAL CHARGING GATEWAY NETWORK ELEMENT
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:55.69
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (9993) 0160 CHG EXCEPTIONAL HANDLING
+    01 0B AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:34:55.69
+... CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2445) 3010 NO OPERATIONAL CHARGING GATEWAY NETWORK ELEMENT
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:34:59.16
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2446) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:34:59.86
+*   DISTUR ........                          MTA_IX
+    (9994) 1647 OPERATION TIMER EXPIRY
+    38 06 00 0F 97 62 81 61 74 40 82 84 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:04.17
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (9995) 0160 CHG EXCEPTIONAL HANDLING
+    02 0B AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:04.17
+.   CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2447) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:04.17
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (9996) 0160 CHG EXCEPTIONAL HANDLING
+    01 0B AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:35:07.25
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2448) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:12.26
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (9997) 0160 CHG EXCEPTIONAL HANDLING
+    02 0B AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:12.26
+.   CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2449) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:12.26
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (9998) 0160 CHG EXCEPTIONAL HANDLING
+    01 0B AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:17.27
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (9999) 0160 CHG EXCEPTIONAL HANDLING
+    02 0B AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:17.27
+.   CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2455) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:35:17.27
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2454) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:17.27
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (0000) 0160 CHG EXCEPTIONAL HANDLING
+    01 0B AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:22.28
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (0001) 0160 CHG EXCEPTIONAL HANDLING
+    02 0B AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:35:22.29
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2452) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:22.28
+.   CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2453) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:22.28
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (0002) 0160 CHG EXCEPTIONAL HANDLING
+    01 0B AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:22.85
+.   CANCEL MCHU-1      1A001-00-15           SL1_GM
+    (2463) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:35:23.02
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2450) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:25.53
+.   CANCEL MCHU-1      1A001-00-15           SL1_GM
+    (2462) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:28.03
+    NOTICE MCHU-1      1A001-00-15           GIG_GM
+    (0003) 0160 CHG EXCEPTIONAL HANDLING
+    02 0B AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:35:28.03
+.   CANCEL MCHU-1      1A001-00-15           GIG_GM
+    (2451) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:37:33.77
+*   DISTUR ........                          MTA_IX
+    (0004) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:38:09.76
+*   DISTUR ........                          MTA_IX
+    (0005) 1647 OPERATION TIMER EXPIRY
+    38 06 00 0F 97 62 81 61 74 40 82 84 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  02:39:17.16
+*   DISTUR ........                          MTA_IX
+    (0006) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 94 77 57 05 02 81 61 FF FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:39:27.92
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2459) 3308 CDR SEND BUFFER FULLNESS INFO
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:40:51.45
+*   DISTUR ........                          MTA_IX
+    (0007) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:41:14.95
+**  ALARM  MCHU-0      1A001-00-2            NDVMAN
+    (2464) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:41:32.16
+**  ALARM  MCHU-0      1A001-00-2            NDVMAN
+    (2465) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  02:41:36.12
+*   DISTUR ........                          MTA_IX
+    (0008) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:41:58.12
+*   DISTUR ........                          MTA_IX
+    (0009) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:42:34.83
+*   DISTUR ........                          MTA_IX
+    (0010) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:43:41.57
+*   DISTUR ........                          MTA_IX
+    (0011) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:44:17.02
+*   DISTUR ........                          MTA_IX
+    (0012) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:44:25.82
+*   DISTUR ........                          MTA_IX
+    (0013) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:45:21.94
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2461) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B1 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:45:21.94
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2466) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C1 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:45:43.09
+*   DISTUR ........                          MTA_IX
+    (0014) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:46:07.96
+*   DISTUR ........                          MTA_IX
+    (0015) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:46:22.88
+*   DISTUR ........                          MTA_IX
+    (0016) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:46:42.84
+*   DISTUR ........                          MTA_IX
+    (0017) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:46:49.15
+..  CANCEL MCHU-0      1A001-00-2            NDVMAN
+    (2464) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  02:46:51.48
+*   ALARM  PAPU-9      1A002-00-5            GTP_GX
+    (2467) 3450 GGSN UNAVAILABLE
+    00 50 0A 02 84 FF FF FF FF FF FF FF FF FF FF FF FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  02:46:51.88
+..  CANCEL MCHU-0      1A001-00-2            NDVMAN
+    (2465) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:47:07.63
+*   DISTUR ........                          MTA_IX
+    (0018) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  02:47:34.91
+*   DISTUR ........                          MTA_IX
+    (0019) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:48:03.78
+*   DISTUR ........                          MTA_IX
+    (0020) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  02:48:12.14
+*   DISTUR ........                          MTA_IX
+    (0021) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:49:06.46
+*   DISTUR ........                          MTA_IX
+    (0022) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0023) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:01.97
+*   ALARM  SMMU-0      1A001-00-13           S3CMAN
+    (2468) 3379 SCTP PATH FAILURE
+    03 01 0001 0004
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:02.21
+*   ALARM  SMMU-2      1A002-00-15           S3CMAN
+    (2469) 3379 SCTP PATH FAILURE
+    03 01 0001 0003
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:02.23
+*   ALARM  SMMU-1      1A001-00-14           S3CMAN
+    (2470) 3379 SCTP PATH FAILURE
+    03 01 0001 0005
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:02.33
+*   ALARM  SMMU-1      1A001-00-14           S3CMAN
+    (2471) 3379 SCTP PATH FAILURE
+    03 01 0001 0002
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:02.38
+*   ALARM  SMMU-0      1A001-00-13           S3CMAN
+    (2472) 3379 SCTP PATH FAILURE
+    03 01 0001 0001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:02.45
+*   ALARM  SMMU-2      1A002-00-15           S3CMAN
+    (2473) 3379 SCTP PATH FAILURE
+    03 01 0001 0006
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:02.60
+*   ALARM  SMMU-0      1A001-00-13           S3CMAN
+    (2474) 3379 SCTP PATH FAILURE
+    03 01 0001 0007
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:50:03.01
+*   ALARM  SMMU-2      1A002-00-15           S3CMAN
+    (2475) 3379 SCTP PATH FAILURE
+    03 01 0001 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:51:45.25
+*   DISTUR ........                          MTA_IX
+    (0024) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:53:50.48
+*   DISTUR ........                          MTA_IX
+    (0025) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:54:03.15
+*   DISTUR ........                          MTA_IX
+    (0026) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:56:46.59
+    NOTICE MCHU-1      1A001-00-15           GST_GM
+    (0027) 0173 SENDING OF TRAFFICA REPORTS CHANGE ACTION
+    02 00 AC 11 0D 12 FF FF FF FF FF FF FF FF
+    FF FF FF FF 0849 FFFFFFFF 00000000 00000000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:57:12.51
+*   DISTUR ........                          MTA_IX
+    (0028) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  02:57:57.52
+*   DISTUR ........                          MTA_IX
+    (0029) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:16.87
+.   CANCEL SMMU-2      1A002-00-15           S3CMAN
+    (2475) 3379 SCTP PATH FAILURE
+    03 01 0001 0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.05
+.   CANCEL SMMU-0      1A001-00-13           S3CMAN
+    (2472) 3379 SCTP PATH FAILURE
+    03 01 0001 0001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.11
+.   CANCEL SMMU-1      1A001-00-14           S3CMAN
+    (2471) 3379 SCTP PATH FAILURE
+    03 01 0001 0002
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.26
+.   CANCEL SMMU-0      1A001-00-13           S3CMAN
+    (2468) 3379 SCTP PATH FAILURE
+    03 01 0001 0004
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.51
+.   CANCEL SMMU-1      1A001-00-14           S3CMAN
+    (2470) 3379 SCTP PATH FAILURE
+    03 01 0001 0005
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.59
+.   CANCEL SMMU-2      1A002-00-15           S3CMAN
+    (2469) 3379 SCTP PATH FAILURE
+    03 01 0001 0003
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.77
+.   CANCEL SMMU-0      1A001-00-13           S3CMAN
+    (2474) 3379 SCTP PATH FAILURE
+    03 01 0001 0007
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  02:58:17.89
+.   CANCEL SMMU-2      1A002-00-15           S3CMAN
+    (2473) 3379 SCTP PATH FAILURE
+    03 01 0001 0006
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:00:22.75
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2466) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C1 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:00:22.75
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2476) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C3 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:02:15.71
+*   DISTUR ........                          MTA_IX
+    (0030) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:02:27.59
+    NOTICE MCHU-1      1A001-00-15           GST_GM
+    (0031) 0173 SENDING OF TRAFFICA REPORTS CHANGE ACTION
+    00 00 AC 11 0D 12 FF FF FF FF FF FF FF FF
+    FF FF FF FF 0849 000FFFFF 000FFFFF 00000000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:02:37.20
+*   DISTUR ........                          MTA_IX
+    (0032) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  03:03:06.30
+*   DISTUR ........                          MTA_IX
+    (0033) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:03:28.63
+*   DISTUR ........                          MTA_IX
+    (0034) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  03:03:39.65
+*   DISTUR ........                          MTA_IX
+    (0035) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:04:15.78
+*   DISTUR ........                          MTA_IX
+    (0036) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-1      SWITCH    2014-12-02  03:05:11.12
+**  ALARM  ........                          MTA_IX
+    (2477) 2646 PROTOCOL ROUTING FAILURE
+    02 01 08 00 0C 91 88 69 87 10 27 65 FF FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:05:52.20
+*   DISTUR ........                          MTA_IX
+    (0037) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:06:14.62
+*   DISTUR ........                          MTA_IX
+    (0038) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:06:43.65
+**  ALARM  OMU-1       1A001-00-16           NDVMAN
+    (2478) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:07:06.85
+**  ALARM  OMU-1       1A001-00-16           NDVMAN
+    (2479) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:07:30.23
+*   DISTUR ........                          MTA_IX
+    (0039) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:07:52.18
+*   DISTUR ........                          MTA_IX
+    (0040) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:09:13.78
+*   DISTUR ........                          MTA_IX
+    (0041) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:10:11.59
+*   DISTUR ........                          MTA_IX
+    (0042) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:10:31.43
+..  CANCEL OMU-1       1A001-00-16           NDVMAN
+    (2478) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:11:23.36
+..  CANCEL OMU-1       1A001-00-16           NDVMAN
+    (2479) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-0                             IOMANA
+    (0001) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-2                             IOMANA
+    (0002) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-1                             IOMANA
+    (0003) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-3                             IOMANA
+    (0004) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-4                             IOMANA
+    (0005) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-5                             IOMANA
+    (0006) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-6                             IOMANA
+    (0007) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-7                             IOMANA
+    (0008) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-8                             IOMANA
+    (0009) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-9                             IOMANA
+    (0010) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-10                            IOMANA
+    (0011) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-12                            IOMANA
+    (0012) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-11                            IOMANA
+    (0013) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-13                            IOMANA
+    (0014) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:11:42.94
+    NOTICE VPP-14                            IOMANA
+    (0015) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:11:45.48
+    NOTICE OMU-0       1A001-00-1            RCXPRO
+    (0016) 0690 WORKING STATE CHANGE
+    WO-EX SP-EX 0000 031B 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:11:45.48
+    NOTICE OMU-1       1A001-00-16           RCXPRO
+    (0017) 0690 WORKING STATE CHANGE
+    SP-EX WO-EX 0000 031B 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:11:49.73
+*   DISTUR ........                          GEORGE
+    (0018) 1557 EVENT HANDLER CANNOT WORK PROPERLY DUE TO FILE SERVICE FAILURE
+    10112d 00000000 02B3
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:11:54.24
+*   DISTUR ........                          MTA_IX
+    (0019) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:12:01.03
+*   DISTUR ........                          MTA_IX
+    (0020) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:12:38.32
+*   DISTUR ........                          MTA_IX
+    (0021) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:13:02.11
+**  ALARM  OMU-0       1A001-00-1            NDVMAN
+    (0001) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:13:24.06
+**  ALARM  OMU-0       1A001-00-1            NDVMAN
+    (0002) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:14:21.26
+*   DISTUR ........                          MTA_IX
+    (0022) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:25.82
+*   ALARM  SMMU-1      1A001-00-14           S3CMAN
+    (0003) 3379 SCTP PATH FAILURE
+    03 01 0003 0004
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:26.23
+*   ALARM  SMMU-2      1A002-00-15           S3CMAN
+    (0004) 3379 SCTP PATH FAILURE
+    03 01 0003 0002
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:27.18
+*   ALARM  SMMU-1      1A001-00-14           S3CMAN
+    (0005) 3379 SCTP PATH FAILURE
+    03 01 0003 0001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:27.27
+*   ALARM  SMMU-0      1A001-00-13           S3CMAN
+    (0006) 3379 SCTP PATH FAILURE
+    03 01 0003 0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:27.40
+*   ALARM  SMMU-2      1A002-00-15           S3CMAN
+    (0007) 3379 SCTP PATH FAILURE
+    03 01 0003 0005
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:27.65
+*   ALARM  SMMU-0      1A001-00-13           S3CMAN
+    (0008) 3379 SCTP PATH FAILURE
+    03 01 0003 0003
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:34.77
+*   ALARM  SMMU-0      1A001-00-13           S3CMAN
+    (0009) 3379 SCTP PATH FAILURE
+    03 01 0003 0006
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:14:36.48
+*   ALARM  SMMU-1      1A001-00-14           S3CMAN
+    (0010) 3379 SCTP PATH FAILURE
+    03 01 0003 0007
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:15:22.41
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (2476) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C3 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:15:22.41
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (0011) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B3 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:16:01.96
+.   CANCEL SMMU-0      1A001-00-13           S3CMAN
+    (0009) 3379 SCTP PATH FAILURE
+    03 01 0003 0006
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:16:02.84
+.   CANCEL SMMU-1      1A001-00-14           S3CMAN
+    (0010) 3379 SCTP PATH FAILURE
+    03 01 0003 0007
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:16:08.96
+..  CANCEL OMU-0       1A001-00-1            NDVMAN
+    (0001) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:18:01.67
+..  CANCEL OMU-0       1A001-00-1            NDVMAN
+    (0002) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:18:14.92
+*   DISTUR ........                          MTA_IX
+    (0023) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:18:58.99
+*   DISTUR ........                          MTA_IX
+    (0024) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:19:42.92
+.   CANCEL SMMU-1      1A001-00-14           S3CMAN
+    (0005) 3379 SCTP PATH FAILURE
+    03 01 0003 0001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:19:43.87
+.   CANCEL SMMU-1      1A001-00-14           S3CMAN
+    (0003) 3379 SCTP PATH FAILURE
+    03 01 0003 0004
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:19:43.97
+.   CANCEL SMMU-0      1A001-00-13           S3CMAN
+    (0006) 3379 SCTP PATH FAILURE
+    03 01 0003 0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:19:44.00
+.   CANCEL SMMU-2      1A002-00-15           S3CMAN
+    (0007) 3379 SCTP PATH FAILURE
+    03 01 0003 0005
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:19:44.16
+.   CANCEL SMMU-0      1A001-00-13           S3CMAN
+    (0008) 3379 SCTP PATH FAILURE
+    03 01 0003 0003
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:19:45.54
+.   CANCEL SMMU-2      1A002-00-15           S3CMAN
+    (0004) 3379 SCTP PATH FAILURE
+    03 01 0003 0002
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:19:48.27
+*   DISTUR ........                          MTA_IX
+    (0025) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:20:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0026) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:20:24.62
+*   DISTUR ........                          MTA_IX
+    (0027) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:20:33.10
+*   DISTUR ........                          MTA_IX
+    (0028) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:20:39.52
+*   DISTUR ........                          MTA_IX
+    (0029) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:20:55.32
+*   DISTUR ........                          MTA_IX
+    (0030) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:24:13.72
+*   DISTUR ........                          MTA_IX
+    (0031) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:25:47.14
+*   DISTUR ........                          MTA_IX
+    (0032) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  03:26:29.66
+*   DISTUR ........                          MTA_IX
+    (0033) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:26:53.91
+*   DISTUR ........                          MTA_IX
+    (0034) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:27:06.34
+*   DISTUR ........                          MTA_IX
+    (0035) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:27:45.92
+*   DISTUR ........                          MTA_IX
+    (0036) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:28:30.21
+*   DISTUR ........                          MTA_IX
+    (0037) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:28:45.62
+*   DISTUR ........                          MTA_IX
+    (0038) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:29:31.85
+*   DISTUR ........                          MTA_IX
+    (0039) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:30:21.76
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (0011) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B3 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:30:21.76
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (0012) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C2 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:30:41.81
+*   DISTUR ........                          MTA_IX
+    (0040) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:31:40.19
+*   DISTUR ........                          MTA_IX
+    (0041) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:31:49.88
+*   DISTUR ........                          MTA_IX
+    (0042) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:32:24.20
+*   DISTUR ........                          MTA_IX
+    (0043) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:33:00.74
+*   DISTUR ........                          MTA_IX
+    (0044) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:33:45.78
+*   DISTUR ........                          MTA_IX
+    (0045) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:35:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0046) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  PAPU-10     SWITCH    2014-12-02  03:35:18.49
+*   DISTUR PAPU-10     1A002-00-6            SORPRO
+    (0047) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:35:29.14
+*   DISTUR ........                          MTA_IX
+    (0048) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  03:36:17.87
+*   DISTUR PAPU-11     1A002-00-7            0A10H
+    (0049) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:36:26.75
+*   DISTUR ........                          MTA_IX
+    (0050) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:36:29.16
+*   DISTUR ........                          MTA_IX
+    (0051) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:37:17.04
+*   DISTUR ........                          MTA_IX
+    (0052) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:37:33.83
+*   DISTUR ........                          MTA_IX
+    (0053) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  03:37:43.35
+*   DISTUR PAPU-11     1A002-00-7            0A12H
+    (0054) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:38:08.86
+*   DISTUR ........                          MTA_IX
+    (0055) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:38:09.94
+*   DISTUR ........                          MTA_IX
+    (0056) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  03:38:15.87
+*   DISTUR PAPU-11     1A002-00-7            SORPRO
+    (0057) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:38:47.60
+**  ALARM  ........                          MTA_IX
+    (0013) 2646 PROTOCOL ROUTING FAILURE
+    02 05 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:40:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0058) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:40:49.56
+**  ALARM  OMU-1       1A001-00-16           NDVMAN
+    (0014) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:40:49.56
+    NOTICE OMU-1       1A001-00-16           POZMAN
+    (0059) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    EL4 EL5
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  03:41:16.64
+*   DISTUR ........                          MTA_IX
+    (0060) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  03:41:49.42
+*   DISTUR ........                          MTA_IX
+    (0061) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:42:13.82
+..  CANCEL OMU-1       1A001-00-16           NDVMAN
+    (0014) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:44:51.01
+*   DISTUR ........                          MTA_IX
+    (0062) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:45:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0063) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:45:22.25
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (0012) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C2 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:45:22.25
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (0015) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BA 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:50:32.28
+*   DISTUR ........                          MTA_IX
+    (0064) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:51:10.09
+*   ALARM  PAPU-11     1A002-00-7            S3CMAN
+    (0016) 3159 SCTP ASSOCIATION LOST
+    03 000E 0003 0000 0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  03:52:17.94
+.   CANCEL PAPU-11     1A002-00-7            S3CMAN
+    (0016) 3159 SCTP ASSOCIATION LOST
+    03 000E 0003 0000 0000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  03:55:15.45
+*   DISTUR ........                          MTA_IX
+    (0065) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:56:53.80
+**  ALARM  OMU-1       1A001-00-16           NDVMAN
+    (0017) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:56:53.80
+    NOTICE OMU-1       1A001-00-16           POZMAN
+    (0066) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    EL5 EL4
+
+    <HIST> SNZ03                  PAPU-10     SWITCH    2014-12-02  03:57:18.27
+*   DISTUR PAPU-10     1A002-00-6            SORPRO
+    (0067) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  03:57:18.67
+*   DISTUR PAPU-11     1A002-00-7            SORPRO
+    (0068) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  03:57:30.88
+*   DISTUR PAPU-8      1A002-00-4            0A11H
+    (0069) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-20     SWITCH    2014-12-02  03:57:52.04
+*   DISTUR PAPU-20     1A003-00-7            SORPRO
+    (0070) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:57:55.41
+..  CANCEL OMU-1       1A001-00-16           NDVMAN
+    (0017) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  03:58:04.27
+*   DISTUR PAPU-11     1A002-00-7            SORPRO
+    (0071) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-19     SWITCH    2014-12-02  03:58:06.14
+*   DISTUR PAPU-19     1A003-00-6            SORPRO
+    (0072) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  03:58:13.33
+*   DISTUR PAPU-9      1A002-00-5            SORPRO
+    (0073) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-22     SWITCH    2014-12-02  03:58:32.49
+*   DISTUR PAPU-22     1A003-00-14           SORPRO
+    (0074) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  03:58:49.11
+*   DISTUR PAPU-11     1A002-00-7            SORPRO
+    (0075) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-0      SWITCH    2014-12-02  03:58:56.13
+*   DISTUR PAPU-0      1A001-00-3            SORPRO
+    (0076) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-2                             IOMANA
+    (0043) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-3                             IOMANA
+    (0044) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-4                             IOMANA
+    (0045) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-5                             IOMANA
+    (0046) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-6                             IOMANA
+    (0047) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-7                             IOMANA
+    (0048) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-8                             IOMANA
+    (0049) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-1                             IOMANA
+    (0050) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-9                             IOMANA
+    (0051) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-10                            IOMANA
+    (0052) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-11                            IOMANA
+    (0053) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-12                            IOMANA
+    (0054) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-13                            IOMANA
+    (0055) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-14                            IOMANA
+    (0056) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-1       SWITCH    2014-12-02  03:59:01.49
+    NOTICE VPP-0                             IOMANA
+    (0057) 0690 WORKING STATE CHANGE
+    WO-BU BL-SY 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-0                             IOMANA
+    (0058) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-6                             IOMANA
+    (0059) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-12                            IOMANA
+    (0060) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-4                             IOMANA
+    (0061) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-3                             IOMANA
+    (0062) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-5                             IOMANA
+    (0063) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-2                             IOMANA
+    (0064) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-8                             IOMANA
+    (0065) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-13                            IOMANA
+    (0066) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-11                            IOMANA
+    (0067) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-10                            IOMANA
+    (0068) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-9                             IOMANA
+    (0069) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-14                            IOMANA
+    (0070) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-7                             IOMANA
+    (0071) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:02.84
+    NOTICE VPP-1                             IOMANA
+    (0072) 0690 WORKING STATE CHANGE
+    BL-SY WO-BU 0000 0000 0000 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:04.05
+    NOTICE OMU-1       1A001-00-16           RCXPRO
+    (0073) 0690 WORKING STATE CHANGE
+    WO-EX SP-EX 0001 0316 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:04.05
+    NOTICE OMU-0       1A001-00-1            RCXPRO
+    (0074) 0690 WORKING STATE CHANGE
+    SP-EX WO-EX 0001 0316 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  03:59:07.94
+*   DISTUR ........                          GEORGE
+    (0075) 1557 EVENT HANDLER CANNOT WORK PROPERLY DUE TO FILE SERVICE FAILURE
+    154d 08510000 000E
+
+    <HIST> SNZ03                  PAPU-13     SWITCH    2014-12-02  03:59:08.53
+*   DISTUR PAPU-13     1A002-00-14           SORPRO
+    (0076) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-10     SWITCH    2014-12-02  03:59:23.07
+*   DISTUR PAPU-10     1A002-00-6            0A10H
+    (0077) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  03:59:24.71
+*   DISTUR PAPU-9      1A002-00-5            0A12H
+    (0078) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-2      SWITCH    2014-12-02  03:59:39.11
+*   DISTUR PAPU-2      1A001-00-5            SORPRO
+    (0079) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-3      SWITCH    2014-12-02  03:59:45.22
+*   DISTUR PAPU-3      1A001-00-6            SORPRO
+    (0080) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:00:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0081) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  PAPU-10     SWITCH    2014-12-02  04:00:04.03
+*   DISTUR PAPU-10     1A002-00-6            SORPRO
+    (0082) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  04:00:20.14
+*   DISTUR PAPU-9      1A002-00-5            SORPRO
+    (0083) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:00:21.51
+..  CANCEL MCHU-1      1A001-00-15           GST_GM
+    (0015) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BA 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:00:21.51
+**  ALARM  MCHU-1      1A001-00-15           GST_GM
+    (2480) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BC 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  04:00:24.36
+*   DISTUR PAPU-8      1A002-00-4            SORPRO
+    (0084) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-2      SWITCH    2014-12-02  04:00:56.40
+*   DISTUR PAPU-2      1A001-00-5            SORPRO
+    (0085) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-12     SWITCH    2014-12-02  04:01:00.25
+*   DISTUR PAPU-12     1A002-00-13           SORPRO
+    (0086) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:01:03.98
+**  ALARM  OMU-0       1A001-00-1            NDVMAN
+    (2481) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:01:03.98
+    NOTICE OMU-0       1A001-00-1            POZMAN
+    (0087) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    EL4 EL5
+
+    <HIST> SNZ03                  PAPU-8      SWITCH    2014-12-02  04:01:11.28
+*   DISTUR PAPU-8      1A002-00-4            0A11H
+    (0088) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-13     SWITCH    2014-12-02  04:01:15.83
+*   DISTUR PAPU-13     1A002-00-14           SORPRO
+    (0089) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-10     SWITCH    2014-12-02  04:01:18.62
+*   DISTUR PAPU-10     1A002-00-6            SORPRO
+    (0090) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:01:40.54
+..  CANCEL OMU-0       1A001-00-1            NDVMAN
+    (2481) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  PAPU-15     SWITCH    2014-12-02  04:01:47.68
+*   DISTUR PAPU-15     1A003-00-2            SORPRO
+    (0091) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-0      SWITCH    2014-12-02  04:01:49.12
+*   DISTUR PAPU-0      1A001-00-3            SORPRO
+    (0092) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-9      SWITCH    2014-12-02  04:01:49.94
+*   DISTUR PAPU-9      1A002-00-5            SORPRO
+    (0093) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  PAPU-6      SWITCH    2014-12-02  04:02:04.53
+*   DISTUR PAPU-6      1A002-00-2            SORPRO
+    (0094) 1240 SCCP DISTURBANCE
+    02 0C 0000275F 8E 00001FF1 8E 0000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:02:50.88
+**  ALARM  OMU-0       1A001-00-1            NDVMAN
+    (2482) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:02:50.88
+    NOTICE OMU-0       1A001-00-1            POZMAN
+    (0095) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    EL5 EL4
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:03:38.26
+*   DISTUR ........                          MTA_IX
+    (0096) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:03:40.96
+..  CANCEL OMU-0       1A001-00-1            NDVMAN
+    (2482) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:04:42.56
+*   DISTUR ........                          MTA_IX
+    (0097) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:05:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0098) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:05:24.18
+**  ALARM  MCHU-1      1A001-00-15           NDVMAN
+    (2483) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:05:24.18
+    NOTICE MCHU-1      1A001-00-15           POZMAN
+    (0099) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN913 VLAN1913
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:05:24.18
+    NOTICE MCHU-1      1A001-00-15           POZMAN
+    (0100) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN3 VLAN13
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:06:52.80
+..  CANCEL MCHU-1      1A001-00-15           NDVMAN
+    (2483) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:07:41.65
+**  ALARM  MCHU-1      1A001-00-15           NDVMAN
+    (2484) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:07:41.65
+    NOTICE MCHU-1      1A001-00-15           POZMAN
+    (0101) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN1913 VLAN913
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:07:41.65
+    NOTICE MCHU-1      1A001-00-15           POZMAN
+    (0102) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN13 VLAN3
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:08:52.03
+..  CANCEL MCHU-1      1A001-00-15           NDVMAN
+    (2484) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:09:03.27
+*   DISTUR ........                          MTA_IX
+    (0103) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:10:00.01
+*   DISTUR MCHU-1      1A001-00-15           SS2PRO
+    (0104) 1169 FREEZING PERIOD OF SS7 REPORTING LOST
+    04 08EC0000
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:11:13.57
+*   DISTUR ........                          MTA_IX
+    (0105) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:11:27.02
+    NOTICE MCHU-1      1A001-00-15           RCXPRO
+    (0106) 0690 WORKING STATE CHANGE
+    WO-EX SP-EX 0000 0329 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:11:27.02
+    NOTICE MCHU-0      1A001-00-2            RCXPRO
+    (0107) 0690 WORKING STATE CHANGE
+    SP-EX WO-EX 0000 0329 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:11:27.54
+*   ALARM  MCHU-0      1A001-00-2            SL1_GM
+    (2485) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:11:27.54
+*   ALARM  MCHU-0      1A001-00-2            SL1_GM
+    (2486) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:11:47.90
+*   DISTUR ........                          MTA_IX
+    (0108) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:12:46.61
+*   DISTUR ........                          MTA_IX
+    (0109) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:13:16.13
+.   CANCEL MCHU-0      1A001-00-2            SL1_GM
+    (2485) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:13:27.23
+.   CANCEL MCHU-0      1A001-00-2            SL1_GM
+    (2486) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:15:19.48
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2458) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:15:19.48
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2487) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:16:03.02
+    NOTICE MCHU-0      1A001-00-2            O7AMAN
+    (0110) 0009 OSI FORCED CONNECTION CLEARING
+    02 FF FFFF 02
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:16:03.32
+    NOTICE MCHU-0      1A001-00-2            RCXPRO
+    (0111) 0690 WORKING STATE CHANGE
+    WO-EX SP-EX 0000 0329 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:16:03.32
+    NOTICE MCHU-1      1A001-00-15           RCXPRO
+    (0112) 0690 WORKING STATE CHANGE
+    SP-EX WO-EX 0000 0329 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:16:03.83
+*   ALARM  MCHU-1      1A001-00-15           SL1_GM
+    (2488) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:16:03.83
+*   ALARM  MCHU-1      1A001-00-15           SL1_GM
+    (2489) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:16:59.38
+.   CANCEL MCHU-1      1A001-00-15           SL1_GM
+    (2489) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  04:17:44.61
+*   ALARM  ........                          CCRECE
+    (2490) 2224 ERROR IN MSU HANDLING
+    05 C0 0000275F 28001FF9 00 14 F1 1F AA AA
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:18:21.13
+*   DISTUR MCHU-0      1A001-00-2            RCXPRO
+    (0113) 1334 HW RESTART NOTICE
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  04:18:25.49
+.   CANCEL MCHU-1      1A001-00-15           SL1_GM
+    (2488) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:18:43.88
+*   DISTUR MCHU-0      1A001-00-2            RCXPRO
+    (0114) 1001 UNIT RESTARTED
+    SP-RE 00 01 00 00 01
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:18:52.52
+*   DISTUR ........                          MTA_IX
+    (0115) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:19:33.34
+    NOTICE MCHU-0      1A001-00-2            RCXPRO
+    (0116) 0691 AUTOMATIC RECOVERY ACTION
+    SP-RE SP-UP 0004 00A0 0855 00000000 00000000 00000000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:38.99
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2491) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:38.99
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2492) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:38.99
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2493) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:38.99
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2494) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:38.99
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2495) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:38.99
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2496) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:55.35
+.   CANCEL MCHU-0      1A001-00-2            S4S_GM
+    (0508) 3464 CHG INTERFACE DATA PROBLEM
+    040A 0000EC36 08 00000000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:55.35
+..  CANCEL MCHU-0      1A001-00-2            S3CMAN
+    (3123) 2018 OVERFLOW IN HANDLING ALARM EVENTS
+    00003379 058A0000 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:55.35
+..  CANCEL MCHU-0      1A001-00-2            S3CMAN
+    (2174) 2018 OVERFLOW IN HANDLING ALARM EVENTS
+    00003159 058A0000 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:19:55.35
+..  CANCEL MCHU-0      1A001-00-2            SMNPRO
+    (2306) 2018 OVERFLOW IN HANDLING ALARM EVENTS
+    00002241 058A0000 00
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:20:12.10
+    NOTICE MCHU-0      1A001-00-2            RCXPRO
+    (0117) 0691 AUTOMATIC RECOVERY ACTION
+    SP-UP SP-EX 0004 00A0 0818 00000000 00000000 00000000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:20:39.41
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2492) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:20:39.41
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2491) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:20:39.41
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2495) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1B 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:20:39.41
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2494) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 1A 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:20:39.42
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2493) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0C 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:20:39.49
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2496) 3056 AN INOPERATIVE CHARGING GATEWAY
+    AC 11 0B 19 00 00 00 00 00 00 00 00 00 00 00 00
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:20:44.92
+*   DISTUR ........                          MTA_IX
+    (0118) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:20:52.90
+*   DISTUR ........                          MTA_IX
+    (0119) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:21:19.87
+*   DISTUR ........                          MTA_IX
+    (0120) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:23:31.87
+    NOTICE MCHU-1      1A001-00-15           RCXPRO
+    (0121) 0690 WORKING STATE CHANGE
+    WO-EX SP-EX 0000 0329 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  04:23:31.87
+    NOTICE MCHU-0      1A001-00-2            RCXPRO
+    (0122) 0690 WORKING STATE CHANGE
+    SP-EX WO-EX 0000 0329 0881 00000000 00000000 00000000
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:23:32.39
+*   ALARM  MCHU-0      1A001-00-2            SL1_GM
+    (2497) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:23:32.39
+*   ALARM  MCHU-0      1A001-00-2            SL1_GM
+    (2498) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:24:09.47
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2487) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:25:27.50
+.   CANCEL MCHU-0      1A001-00-2            SL1_GM
+    (2498) 3154 LIC CONNECTION FAILURE
+    00000005
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:27:04.49
+.   CANCEL MCHU-0      1A001-00-2            SL1_GM
+    (2497) 3154 LIC CONNECTION FAILURE
+    00000001
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:27:29.17
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2499) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B1 0000 0000 0000 00 EC38
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:29:22.77
+*   DISTUR ........                          MTA_IX
+    (0123) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:29:32.34
+**  ALARM  MCHU-0      1A001-00-2            NDVMAN
+    (2500) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:29:32.34
+    NOTICE MCHU-0      1A001-00-2            POZMAN
+    (0124) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN913 VLAN1913
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:29:32.34
+    NOTICE MCHU-0      1A001-00-2            POZMAN
+    (0125) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN3 VLAN13
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:30:23.54
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2499) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B1 0000 0000 0000 00 EC38
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:30:23.54
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2501) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:31:05.93
+..  CANCEL MCHU-0      1A001-00-2            NDVMAN
+    (2500) 3053 ETHERNET INTERFACE FAILURE
+    00000033 04 00
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:32:39.08
+**  ALARM  MCHU-0      1A001-00-2            NDVMAN
+    (2502) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:32:39.08
+    NOTICE MCHU-0      1A001-00-2            POZMAN
+    (0126) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN1913 VLAN913
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:32:39.08
+    NOTICE MCHU-0      1A001-00-2            POZMAN
+    (0127) 0088 ETHERNET INTERFACE SWITCHOVER EXECUTED
+    VLAN13 VLAN3
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:32:50.84
+*   DISTUR ........                          MTA_IX
+    (0128) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:33:43.97
+*   DISTUR ........                          MTA_IX
+    (0129) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:34:21.34
+..  CANCEL MCHU-0      1A001-00-2            NDVMAN
+    (2502) 3053 ETHERNET INTERFACE FAILURE
+    00000032 04 01
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:34:34.47
+*   DISTUR ........                          MTA_IX
+    (0130) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:38:13.72
+*   DISTUR ........                          MTA_IX
+    (0131) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:40:41.93
+*   DISTUR ........                          MTA_IX
+    (0132) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0E 97 60 19 89 00 55 29 31 FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:42:14.69
+*   DISTUR ........                          MTA_IX
+    (0133) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:43:01.09
+*   DISTUR ........                          MTA_IX
+    (0134) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:45:22.09
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2501) 3003 INCORRECT MEASUREMENT DATA
+    247d 42AF 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  04:45:22.11
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2503) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B7 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:46:11.73
+*   DISTUR ........                          MTA_IX
+    (0135) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:47:26.36
+*   DISTUR ........                          MTA_IX
+    (0136) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:48:10.55
+*   DISTUR ........                          MTA_IX
+    (0137) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:49:09.18
+*   DISTUR ........                          MTA_IX
+    (0138) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:49:53.11
+*   DISTUR ........                          MTA_IX
+    (0139) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:49:58.44
+*   DISTUR ........                          MTA_IX
+    (0140) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  04:50:18.67
+*   DISTUR ........                          MTA_IX
+    (0141) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:51:30.03
+*   DISTUR ........                          MTA_IX
+    (0142) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:51:31.09
+*   DISTUR ........                          MTA_IX
+    (0143) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:54:49.72
+*   DISTUR ........                          MTA_IX
+    (0144) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:55:24.34
+*   DISTUR ........                          MTA_IX
+    (0145) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:55:57.59
+*   DISTUR ........                          MTA_IX
+    (0146) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:56:13.34
+*   DISTUR ........                          MTA_IX
+    (0147) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 33 60 93 39 78 40 59 3F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:56:41.65
+*   DISTUR ........                          MTA_IX
+    (0148) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:57:27.76
+*   DISTUR ........                          MTA_IX
+    (0149) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:58:52.65
+*   DISTUR ........                          MTA_IX
+    (0150) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  04:59:37.24
+*   DISTUR ........                          MTA_IX
+    (0151) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:00:21.50
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2503) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B7 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:00:21.50
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2504) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BA 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:01:58.76
+*   DISTUR ........                          MTA_IX
+    (0152) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:02:43.53
+*   DISTUR ........                          MTA_IX
+    (0153) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:04:00.31
+*   DISTUR ........                          MTA_IX
+    (0154) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:06:50.98
+*   DISTUR ........                          MTA_IX
+    (0155) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0D 97 65 97 90 37 61 45 6F FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:07:15.53
+*   DISTUR ........                          MTA_IX
+    (0156) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:08:00.36
+*   DISTUR ........                          MTA_IX
+    (0157) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:09:19.58
+*   DISTUR ........                          MTA_IX
+    (0158) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:09:34.18
+*   DISTUR ........                          MTA_IX
+    (0159) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:09:41.95
+*   DISTUR ........                          MTA_IX
+    (0160) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:12:31.05
+*   DISTUR ........                          MTA_IX
+    (0161) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:13:41.63
+*   DISTUR ........                          MTA_IX
+    (0162) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:14:04.18
+*   DISTUR ........                          MTA_IX
+    (0163) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:14:44.51
+*   DISTUR ........                          MTA_IX
+    (0164) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:14:53.73
+*   DISTUR ........                          MTA_IX
+    (0165) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:15:20.75
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2504) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BA 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:15:20.75
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2505) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BD 0000 0000 0000 00 EC35
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:15:37.93
+*   DISTUR ........                          MTA_IX
+    (0166) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:16:37.44
+*   DISTUR ........                          MTA_IX
+    (0167) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:17:44.49
+*   DISTUR ........                          MTA_IX
+    (0168) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  PAPU-11     SWITCH    2014-12-02  05:17:45.24
+.   CANCEL ........                          CCRECE
+    (2490) 2224 ERROR IN MSU HANDLING
+    05 C0 0000275F 28001FF9 00 14 F1 1F AA AA
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:18:42.98
+*   DISTUR ........                          MTA_IX
+    (0169) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:19:59.93
+*   ALARM  MCHU-0      1A001-00-2            GIG_GM
+    (2506) 3076 SGSN CHARGING RESEND BUFFER BECOMING FULL
+    00000000 00000000
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  05:19:59.94
+*   ALARM  MCHU-0      1A001-00-2            S4S_GM
+    (2507) 3165 CHARGING DATA OVERLOAD
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:20:04.02
+.   CANCEL MCHU-0      1A001-00-2            GIG_GM
+    (2506) 3076 SGSN CHARGING RESEND BUFFER BECOMING FULL
+    00000000 00000000
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:20:41.85
+*   DISTUR ........                          MTA_IX
+    (0170) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:21:14.90
+*   DISTUR ........                          MTA_IX
+    (0171) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:21:25.92
+*   DISTUR ........                          MTA_IX
+    (0172) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:21:55.71
+*   DISTUR ........                          MTA_IX
+    (0173) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:22:33.51
+*   DISTUR ........                          MTA_IX
+    (0174) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:22:40.09
+*   DISTUR ........                          MTA_IX
+    (0175) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:24:23.24
+*   DISTUR ........                          MTA_IX
+    (0176) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:25:20.04
+*   DISTUR ........                          MTA_IX
+    (0177) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:26:04.21
+*   DISTUR ........                          MTA_IX
+    (0178) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:28:17.85
+*   DISTUR ........                          MTA_IX
+    (0179) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:29:01.94
+*   DISTUR ........                          MTA_IX
+    (0180) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:29:07.86
+*   DISTUR ........                          MTA_IX
+    (0181) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:29:35.11
+*   DISTUR ........                          MTA_IX
+    (0182) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:30:13.44
+*   DISTUR ........                          MTA_IX
+    (0183) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:30:22.57
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2505) 3003 INCORRECT MEASUREMENT DATA
+    247d 42BD 0000 0000 0000 00 EC35
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:30:22.57
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2508) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C1 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:30:22.78
+*   DISTUR ........                          MTA_IX
+    (0184) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:31:06.83
+*   DISTUR ........                          MTA_IX
+    (0185) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0D 97 65 97 90 37 61 45 6F FF FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:32:03.91
+*   DISTUR ........                          MTA_IX
+    (0186) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:32:48.51
+*   DISTUR ........                          MTA_IX
+    (0187) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:34:05.10
+*   DISTUR ........                          MTA_IX
+    (0188) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 62 81 83 01 71 95 82 6F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:34:16.18
+*   DISTUR ........                          MTA_IX
+    (0189) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 86 13 95 80 06 13 78 1F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:34:51.56
+*   DISTUR ........                          MTA_IX
+    (0190) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:35:06.17
+*   DISTUR ........                          MTA_IX
+    (0191) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  MCHU-1      SWITCH    2014-12-02  05:35:58.38
+.   CANCEL MCHU-0      1A001-00-2            S4S_GM
+    (2507) 3165 CHARGING DATA OVERLOAD
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:35:58.70
+*   DISTUR ........                          MTA_IX
+    (0192) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:36:20.53
+*   DISTUR ........                          MTA_IX
+    (0193) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:38:02.14
+*   DISTUR ........                          MTA_IX
+    (0194) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:38:14.43
+*   DISTUR ........                          MTA_IX
+    (0195) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-2      SWITCH    2014-12-02  05:38:15.84
+*   DISTUR ........                          MTA_IX
+    (0196) 1547 ERROR IN COMPONENT HANDLING
+    9F 38 06 00 0F 97 86 13 01 16 33 77 23 4F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:39:01.23
+*   DISTUR ........                          MTA_IX
+    (0197) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:39:23.45
+*   DISTUR ........                          MTA_IX
+    (0198) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:40:37.42
+*   DISTUR ........                          MTA_IX
+    (0199) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:43:27.84
+*   DISTUR ........                          MTA_IX
+    (0200) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  05:44:28.95
+*   ALARM  ........                          ROITER
+    (2509) 3319 NORMAL LOAD OF SECURITY EVENTS EXCEEDED
+    000A
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  05:44:45.00
+.   CANCEL ........                          ROITER
+    (2509) 3319 NORMAL LOAD OF SECURITY EVENTS EXCEEDED
+    000A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:45:09.80
+*   DISTUR ........                          MTA_IX
+    (0201) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  05:45:12.41
+*   ALARM  ........                          ROITER
+    (2510) 3319 NORMAL LOAD OF SECURITY EVENTS EXCEEDED
+    000A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:45:22.22
+..  CANCEL MCHU-0      1A001-00-2            GST_GM
+    (2508) 3003 INCORRECT MEASUREMENT DATA
+    247d 42C1 0000 0000 0000 00 EC3A
+
+    <HIST> SNZ03                  MCHU-0      SWITCH    2014-12-02  05:45:22.22
+**  ALARM  MCHU-0      1A001-00-2            GST_GM
+    (2511) 3003 INCORRECT MEASUREMENT DATA
+    247d 42B6 0000 0000 0000 00 AD74
+
+    <HIST> SNZ03                  OMU-0       SWITCH    2014-12-02  05:45:45.62
+.   CANCEL ........                          ROITER
+    (2510) 3319 NORMAL LOAD OF SECURITY EVENTS EXCEEDED
+    000A
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:45:53.72
+*   DISTUR ........                          MTA_IX
+    (0202) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 44 78 02 65 56 43 03 5F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:46:04.05
+*   DISTUR ........                          MTA_IX
+    (0203) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:47:07.46
+*   DISTUR ........                          MTA_IX
+    (0204) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 85 29 20 01 06 35 62 7F FF
+
+    <HIST> SNZ03                  SMMU-0      SWITCH    2014-12-02  05:47:10.67
+*   DISTUR ........                          MTA_IX
+    (0205) 1575 COMPONENT NOT ACCEPTED BY REMOTE END
+    24 17 06 00 0F 97 64 27 74 32 04 00 75 7F FF
+
+END OF ALARM HISTORY
+
+
+COMMAND EXECUTED
+
+
+ALARM HISTORY HANDLING COMMAND <AH_>
+<
