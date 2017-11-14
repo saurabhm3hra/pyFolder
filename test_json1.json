@@ -1,0 +1,1 @@
+{"header":{"eventId":"S1_SCTP_COMM_LOST","time":"14:11:39:671","sourceIp":"169.254.255.10","sourceId":"IPDU-3","version":"v1","schemaId":"s1conn"},"payload":{"enbName":"24180LN3","enbGlobalId":"64 F6 79 00 03 B0 8B 00","enbIp":"192.168.200.225","value":"1"}}
